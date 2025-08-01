@@ -2,6 +2,9 @@
 
 ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
 
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
 Your ultimate step-by-step roadmap to becoming a skilled AWS Cloud Engineer. This guide covers **7 progressive phases** with hands-on projects to build real-world cloud expertise.
 
 ---
